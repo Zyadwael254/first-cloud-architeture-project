@@ -1,4 +1,4 @@
-# first-cloud-architeture-priject
+# first-cloud-architeture-project
 first arch project
 
 Design a solution for a multi-tier web application to meet the following requirements:
